@@ -1,0 +1,1 @@
+<div class="link_atas"><b> <a href="?page=input_nilai">Input Data Baru</a></b></div>
